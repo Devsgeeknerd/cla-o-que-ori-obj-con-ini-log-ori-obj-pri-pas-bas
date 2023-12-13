@@ -1,64 +1,45 @@
-<!-- TITLE -->
-# Exercício — Criar Tabela Intermediária
+<!-- Título -->
+# O Que é Orientação a Objetos
 
-<!-- TABLE OF CONTENTS -->
-## TABELA DE CONTEÚDO
+***Conteúdo da Aula:***
 
-<!-- * [Vista por cima](#vista-por-cima) -->
-<!--  * [Foto da tela](#foto-da-tela) -->
-<!--  * [Links](#links) -->
-<!-- * [Meu processo](#meu-processo) -->
-<!--  * [Contruido com](#construido-com) -->
-<!--  * [O que aprendi](#o-que-aprendi) -->
-<!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
-<!--  * [Recusos úteis](#recursos-úteis) -->
-<!-- * [Autor](#autor) -->
-<!-- * [Agradecimentos](#agradecimentos) -->
-* [Informações](#informações)
+Você provavelmente já ouviu falar de orientação a objetos ou de linguagens orientadas a objetos.
 
-<!-- OVERVIEW -->
-<!-- ## VISTA POR CIMA -->
+Mas, o que será que é a tal da orientação a objetos?
 
-<!-- SCREENSHOT -->
-<!-- ### FOTO DA TELA -->
+Antes de qualquer coisa, é importante você saber que a orientação a objetos é um paradigma de programação.
 
-<!-- LINKS -->
-<!-- ### LINKS -->
+Um paradigma de programação é uma abordagem ou estilo de programação que define como um programa deve ser estruturado e como a lógica do programa deve ser expressa.
 
-<!-- MY PROCESS -->
-<!-- ## MEU PROCESSO -->
+Existem vários paradigmas de programação, incluindo a programação procedural, a programação orientada a objetos, a programação funcional, entre outros.
 
-<!-- BUILT WITH -->
-<!-- ### CONSTRUIDO COM -->
+A orientação a objetos é um paradigma de programação que se concentra na criação de objetos que contêm dados e comportamentos relacionados.
 
-<!-- WHAT I LEARNED -->
-<!-- ### O QUE APRENDI -->
+Em um programa orientado a objetos, os objetos interagem entre si por meio de métodos e mensagens.
 
-<!-- CONTINUED DEVELOPMENT -->
-<!-- ### DESENVOLVIMENTO CONTÍNUO -->
+A orientação a objetos tem como princípios fundamentais a encapsulação, a herança e o polimorfismo.
 
-<!-- USEFUL RESOURCES -->
-<!-- ### RECURSOS ÚTEIS -->
+Por enquanto não se preocupe com esses termos, vamos aprendê-los aos poucos a medida que avançarmos no curso.
 
-<!-- AUTHOR -->
-<!-- ## AUTOR -->
+É importante que você saiba também que a orientação a objetos não é a bala de prata do desenvolvimento do software.
 
-<!-- ACKNOWLEDGMENTS -->
-<!-- ## AGRADECIMENTOS -->
+O paradigma a ser utilizado depende muito do ambiente onde o software vai ser executado e das tecnologias envolvidas, entre vários outros fatores.
 
-<!-- INFORMATION -->
-## INFORMAÇÕES
+O mais comum inclusive é que em softwares mais robustos se utilize uma mescla de diversos paradigmas de programação.
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fexe-cri-tab-int&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
+<!-- Informações -->
+## &#8505; Informações
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-o-que-ori-obj-con-ini-log-ori-obj-pri-pas-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
-![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/exe-cri-tab-int?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-o-que-ori-obj-con-ini-log-ori-obj-pri-pas-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/exe-cri-tab-int?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-o-que-ori-obj-con-ini-log-ori-obj-pri-pas-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/exe-cri-tab-int?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-o-que-ori-obj-con-ini-log-ori-obj-pri-pas-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/exe-cri-tab-int?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-o-que-ori-obj-con-ini-log-ori-obj-pri-pas-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/exe-cri-tab-int?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/cla-o-que-ori-obj-con-ini-log-ori-obj-pri-pas-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
